@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "hashes": [
+    {
+      "sha256": "275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f",
+      "name": "Test.EICAR"
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Test.EICAR",
+      "b64": "WDVPIVAlQEFQWzRcUFpYNTQoUF4pN0NDKTd9JEVJQ0FSLVNUQU5EQVJELUFOVElWSVJVUy1URVNULUZJTEUhJEgrSCo="
+    },
+    {
+      "name": "Sim.Trojan.Dropper",
+      "text": "MINIAV-TEST-TROJAN-DROPPER"
+    },
+    {
+      "name": "Sim.Ransomware.Note",
+      "text": "MINIAV-TEST-RANSOM-NOTE"
+    },
+    {
+      "name": "Sim.Miner.Process",
+      "text": "MINIAV-TEST-MINER-9F3A"
+    },
+    {
+      "name": "Sim.Worm.Spreader",
+      "text": "MINIAV-TEST-WORM-SPREADER"
+    }
+  ]
+}
